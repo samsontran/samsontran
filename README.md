@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samsontran
-- 👀 I’m interested in machine learning (ML), specifically deep learning for computer vision and NLP applications.
+- 👀 I’m interested in data science & machine learning 
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me: Samson.Tran@mail.utoronto.ca
 
